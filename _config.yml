@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
  url: "carolieventola.me" # the base hostname & protocol for your site
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
